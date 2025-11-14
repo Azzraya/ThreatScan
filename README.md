@@ -1,5 +1,7 @@
 # ThreatScan (was URL-Shortener)
 
+[![Release](https://img.shields.io/github/v/release/Azzraya/ThreatScan?label=release&logo=github)](https://github.com/Azzraya/ThreatScan/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Lightweight, autonomous threat detection for MSPs and infrastructure teams — zero external dependencies.
 
 This repository contains ThreatScan (v5.0), a CLI-first network scanning and threat-detection toolkit implemented in Node.js. It evolved from an earlier project named `URL-Shortener` and now includes predictive analytics, threat scoring, advanced network mapping, and automated orchestration playbooks.
