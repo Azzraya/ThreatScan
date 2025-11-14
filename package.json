@@ -1,0 +1,17 @@
+{
+  "name": "threatscan",
+  "version": "5.0.0",
+  "main": "index.js",
+  "keywords": [
+    "threat",
+    "security",
+    "scanner",
+    "network"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ping": "^1.0.0",
+    "cli-progress": "^3.9.1"
+  }
+}
